@@ -1,0 +1,12 @@
+body {
+
+    background-color: aquamarine;
+}
+
+.box1{
+    width: 500px;
+    height: 120px;
+    border: 2px solid black;
+    padding: 8px;
+    margin: 10px;
+}
